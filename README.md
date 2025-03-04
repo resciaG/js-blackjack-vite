@@ -11,4 +11,4 @@ Pasos para ejecutar proyecto:
 
 Mismo paso 1 y 2.
 3. Correr el entorno en prod 'npm run build'
-4. Tomar la carpeta 'dist' y desplegarla
+4. Tomar la carpeta 'dist' y desplegarla :D
